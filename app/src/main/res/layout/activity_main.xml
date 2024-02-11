@@ -37,6 +37,5 @@
         android:backgroundTint="@android:color/holo_green_dark"
         android:src="@drawable/baseline_add"
         app:fabSize="auto"
-
         />
 </RelativeLayout>
